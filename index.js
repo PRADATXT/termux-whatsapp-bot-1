@@ -38,8 +38,8 @@ prefix = '.'
 blocked = []
 
 const config = {
-        botname: 'BocchiBot', // Your Name Bot
-        oname: 'NAZWA' // Your Name
+        botname: 'TlazmaBot', // Your Name Bot
+        oname: 'CB' // Your Name
 }
 
 function kyun(seconds){
